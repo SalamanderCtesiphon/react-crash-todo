@@ -58,8 +58,8 @@ class App extends Component {
           delTodo={this.delTodo} />
         </div>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
